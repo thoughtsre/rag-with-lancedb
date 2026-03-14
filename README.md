@@ -1,3 +1,5 @@
+> **This repo has been migrated to [GitHub](https://github.com/thoughtsre/rag-with-lancedb).**
+
 # RAG with LanceDB
 
 
